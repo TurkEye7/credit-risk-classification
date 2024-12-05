@@ -1,6 +1,9 @@
-#Credit Risk Classification Analysis
-Overview
+##Credit Risk Classification Analysis
+
+##Overview
+
 This project uses machine learning techniques to create a model that can identify the creditworthiness of borrowers. Using historical data from a peer-to-peer lending services company, the model aims to predict whether a loan will be healthy or high-risk.
+
 Technologies Used
 
 Python 3
